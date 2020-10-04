@@ -1,0 +1,35 @@
+nav, main, footer, header {
+        max-width: 1200px;
+        margin:auto;
+}
+
+/*----------- BODY --------------*/
+
+.wrapper {
+        width: 100%;
+}
+
+
+/*----------- HEADER --------------*/
+
+
+
+/*----------- NAVIGATION --------------*/
+nav ul li {
+        width: 10%;
+}
+
+
+/*----------- MAIN --------------*/
+.member {
+        width: 24%;
+    }
+.member-content img {
+        float: right;
+        margin-left: 5px;
+        max-width: 50%;
+    }
+
+
+/*----------- FOOTER --------------*/
+    
